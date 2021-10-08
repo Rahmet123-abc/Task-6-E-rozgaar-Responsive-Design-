@@ -640,10 +640,14 @@ div.primary-footer span a:hover {
   text-decoration: none;
 }
 
-/* for break point 1024 width for small laptop */
+/* for break point 1024 width for laptop */
 @media only screen and (max-width:1024px) {
   div.services-banner .icon {
     left: 86px;
+  }
+  
+  div.services-banner .service-1 a, div.services-banner .service-2 a, div.services-banner .service-3 a {
+      margin: 35px auto 0 82px;
   }
 
   div.banner5-section .banner5-LeftInfo .icon {
