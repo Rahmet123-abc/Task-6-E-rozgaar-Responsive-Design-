@@ -586,7 +586,7 @@ div.secondary-footer {
   position: relative;
 }
 
-div.secondary-footer .icons {
+div.secondary-footer .icons a{
   color: #654AFF;
   fill: #ffffff;
   position: relative;
@@ -655,10 +655,10 @@ div.primary-footer span a:hover {
   }
 
   div.primary-footer p {
-    margin-bottom: 72px;
-    margin-left: 316px;
-    margin-right: 316px;
-  }
+    margin-bottom: 98px;
+    margin-left: 224px;
+    margin-right: 224px;
+}
 }
 
 /* for break point 768 width for tablet */
